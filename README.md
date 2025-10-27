@@ -3,20 +3,14 @@ A simple, reusable React UI component library built with Storybook for visualiza
 
 🚀 Features
 
-Reusable React components
+->Reusable React components
 
-Storybook integration
+->Storybook integration
 
-Clean, customizable styles
+->Clean, customizable styles
 
-Easy to extend and maintain Components
+->Easy to extend and maintain Components
 
 Button – supports primary, secondary, danger types and pills, square shapes
 
-🧠 Usage Example
-import { Button } from './components/Button/Button';
-<Button type="primary" shape="pills">Click Me</Button>
-
-
-Tech Stack
 React • Storybook • PropTypes • CSS
