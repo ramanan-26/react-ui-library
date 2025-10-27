@@ -1,5 +1,5 @@
 React Reusable Component Library
-A simple, reusable React UI component library built with Storybook for visualization and documentation.
+*A simple, reusable React UI component library built with Storybook for visualization and documentation.
 
 🚀 Features
 
@@ -11,6 +11,5 @@ A simple, reusable React UI component library built with Storybook for visualiza
 
 ->Easy to extend and maintain Components
 
-Button – supports primary, secondary, danger types and pills, square shapes
 
 React • Storybook • PropTypes • CSS
