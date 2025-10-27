@@ -15,8 +15,8 @@ Button – supports primary, secondary, danger types and pills, square shapes
 
 🧠 Usage Example
 import { Button } from './components/Button/Button';
-
 <Button type="primary" shape="pills">Click Me</Button>
+
 
 Tech Stack
 React • Storybook • PropTypes • CSS
