@@ -1,47 +1,35 @@
 ⚛️ React Reusable Component Library
 
-A lightweight React UI library built from scratch using Storybook, focused on reusability, consistency, and clean component design.
+A simple, reusable React UI component library built with Storybook for visualization and documentation.
 
 🚀 Features
 
-🔁 Reusable and customizable React components
+Reusable React components
 
-📘 Storybook integration for live component previews
+Storybook integration
 
-🎛️ Props controls and auto-generated docs
+Clean, customizable styles
 
-💅 Styled with CSS and follows clean naming conventions
+Easy to extend and maintain
 
-🧠 Built to scale across any React project
+Components
 
-🧱 Components
-Component	Description
-Button	Customizable button with variants (primary, secondary, danger) and shapes (square, pills).
-⚙️ Setup
+Button – supports primary, secondary, danger types and pills, square shapes
+
+Setup
 git clone https://github.com/<your-username>/react-ui-library.git
 cd react-ui-library
 npm install
 npm run storybook
 
 
-Open Storybook at 👉 http://localhost:6006
+Visit http://localhost:6006
+ to view your components.
 
+🧠 Usage Example
+import { Button } from './components/Button/Button';
 
+<Button type="primary" shape="pills">Click Me</Button>
 
-🧰 Tech Stack
-
-React
-
-Storybook
-
-PropTypes
-
-CSS
-
-📘 Learnings
-
-Building reusable React components
-
-Structuring UI libraries for scalability
-
-Documenting components using Storybook
+Tech Stack
+React • Storybook • PropTypes • CSS
